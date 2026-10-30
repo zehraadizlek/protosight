@@ -1,0 +1,9 @@
+
+streamlit
+torch
+transformers>=4.45,<5
+pillow
+numpy
+pandas
+scikit-learn
+joblib
